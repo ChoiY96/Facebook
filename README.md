@@ -13,7 +13,7 @@
 ### 1. 虚拟信用卡开通与支付方式
 对于跨境广告投放来说，**支付方式是重中之重**。传统实体卡经常因为地域限制、风控问题而被拒付或停用。此时，**虚拟信用卡（VCC）** 就成为广告主的理想选择。  
 
-👉 推荐使用 [**EasyPay 虚拟信用卡**](https://easy-pay.site/home)（支持 Visa/MasterCard，USDT 充值），开卡流程简洁：  
+👉 推荐使用 [**EasyPay 虚拟信用卡**](https://easy-pay.site/home?ref=RVBFc3VUQ3dOSEAxMQ==)（支持 Visa/MasterCard，USDT 充值），开卡流程简洁：  
 1. 注册账号（支持邮箱 / Telegram 一键注册，无需繁琐 KYC）；  
 2. 充值 USDT（TRC20） → 自动兑换 USD → 划入卡片余额；  
 3. 获取卡片信息（卡号、有效期、CVV、安全码、账单地址）；  
